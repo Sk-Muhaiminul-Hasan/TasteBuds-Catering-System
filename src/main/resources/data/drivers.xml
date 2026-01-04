@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drivers>
+  <driver>
+    <id>D1</id>
+    <name>John Driver</name>
+    <available>true</available>
+    <licenseNumber>DL-001</licenseNumber>
+    <licenseExpiry>2027-12-31</licenseExpiry>
+  </driver>
+</drivers>

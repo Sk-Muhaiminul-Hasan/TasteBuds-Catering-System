@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<customers>
+  <customer>
+    <id>C1</id>
+    <name>Muhaiminul</name>
+    <email>muhaiminul@iut-dhaka.edu</email>
+    <registered>true</registered>
+    <ordersThisMonth>7</ordersThisMonth>
+  </customer>
+</customers>

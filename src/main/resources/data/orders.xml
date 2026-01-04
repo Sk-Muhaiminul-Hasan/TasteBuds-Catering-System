@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<orders>
+  <order>
+    <orderId>ORD-1</orderId>
+    <customerId>C1</customerId>
+    <queueNumber>1</queueNumber>
+    <priority>true</priority>
+    <status>RATED</status>
+    <readyAt>8.0</readyAt>
+    <assignedChefId>C1</assignedChefId>
+    <assignedDriverId>D1</assignedDriverId>
+    <items>
+      <item>
+        <name>Burger</name>
+        <price>10.0</price>
+        <timeToPrepare>8.0</timeToPrepare>
+      </item>
+    </items>
+  </order>
+</orders>
